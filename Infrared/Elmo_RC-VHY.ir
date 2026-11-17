@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: ON_OFF
+name: On_off
 type: parsed
 protocol: NECext
 address: 80 D6 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 80 D6 00 00
 command: 15 EA 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 80 D6 00 00
@@ -43,49 +43,49 @@ protocol: NECext
 address: 80 D6 00 00
 command: 1F E0 00 00
 # 
-name: M1
+name: Split-Screen
 type: parsed
 protocol: NECext
 address: 80 D6 00 00
 command: 17 E8 00 00
 # 
-name: M2
+name: Spotlight
 type: parsed
 protocol: NECext
 address: 80 D6 00 00
 command: 18 E7 00 00
 # 
-name: M3
+name: Focus
 type: parsed
 protocol: NECext
 address: 80 D6 00 00
 command: 19 E6 00 00
 # 
-name: B1
+name: Gallery
 type: parsed
 protocol: NECext
 address: 80 D6 00 00
 command: 1A E5 00 00
 # 
-name: B2
+name: PC
 type: parsed
 protocol: NECext
 address: 80 D6 00 00
 command: 1B E4 00 00
 # 
-name: B3
+name: Photo
 type: parsed
 protocol: NECext
 address: 80 D6 00 00
 command: 1C E3 00 00
 # 
-name: B4
+name: Video
 type: parsed
 protocol: NECext
 address: 80 D6 00 00
 command: 1D E2 00 00
 # 
-name: B5
+name: Mode
 type: parsed
 protocol: NECext
 address: 80 D6 00 00
